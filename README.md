@@ -1,6 +1,9 @@
-## Your Name
+## Samuel Badru
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Full-stack junior web developer with a scientific educational background and data science experience in biotech. This has cultivated a unique blend of skills that are instrumental in development projects - most prominent a systematic and analytical mindset with an intuition in leveraging data to gain insight.
+
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/laurasewilson) | [Blog](link is tbd)
+
 
 ## Projects
 
@@ -45,20 +48,23 @@ I honed my communication skills while completing my thesis at university, which 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
+#### Makers Academy (Feb 2023 to May 2023)
+Software development 16-week bootcamp, with an emphasis on:
+- Object-oriented programming
+- Pair programming and team projects with agile methodologies
+- Test & behaviour driven development with RSpec
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Imperial College London (Oct 2019 to Oct 2020)
+
+- Degree: MSc Molecular Virology
+- Grade: Distinction 
+
+#### The University of Manchester (Sep 2015 to June 2019)
+
+- Degree: BSc (Hons) Biomedical Sciences
+- Grade: First-Class 
 
 #### Any other qualifications
 
